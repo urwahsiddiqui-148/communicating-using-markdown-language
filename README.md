@@ -2,8 +2,8 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  ###### <h1>Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.<h1>
+ ######<h2> In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.<h2>
   Add your open source license, GitHub uses MIT license.
 -->
 
